@@ -1,0 +1,30 @@
+We (Golden Programs) respect your privacy and are committed to protecting your privacy by clearly communicating what information we collect and how we use it, and giving you options to manage our use of your personal information.
+
+1.App Permissions
+
+	•Read and Write Permission
+This permission is required to download ringtones to your phone and set them as ringtones. 
+	•Camera
+This permission is required to record your video during screen recording.
+•Microphone
+This permission is required to record your voice during screen recording.
+	•Internet
+We ask for this permission to show admob ads.
+
+2.Ads
+Google Admob Ads are used in this application. Ads are shown according to your interests. There are personalized ads.
+
+3.Firebase
+The application has analytics service. In the analytics part, instant data is shown. Your application usage behaviors are not stored.
+
+4.Onesignal
+The application contains the Onesignal notification service SDK. We're using this to send you notifications.
+
+5.Other Data
+Crash data is viewed without your personal information. We use them to make our app better.
+
+This app targets 18 years and older. Not eligible for the Children and Families Programme.
+
+
+
+If you have privacy concerns, you can contact us. You can send an e-mail from the contact tab in the applications or from here. old.ringtones@yandex.com
